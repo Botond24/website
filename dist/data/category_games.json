@@ -40,5 +40,10 @@
     "title":"Digital Logic Sim",
     "hover":"A game made by Sebastian Lague",
     "url":"https://comsci.msinst.org/DigiSim/index.html"
+  },
+  {
+    "title":"NANDGame",
+    "hover":"A game for understanding how computers work",
+    "url":"https://nandgame.com/"
   }
 ]
